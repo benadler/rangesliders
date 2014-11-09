@@ -5,7 +5,7 @@ some widgets, almost finished. range sliders and a gradient editor.
 
 all tested only in horizontal orientation. sliders have a bug where the range between two sliders is painted incorrectly.
 
-![screenshot](https://raw.github.com/benadler/rangeslider/master/screenshot.png "Screenshot")
+![screenshot](https://raw.githubusercontent.com/benadler/rangesliders/master/screenshot.png "Screenshot")
 
 RangeSlider is just that
 
